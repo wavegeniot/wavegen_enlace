@@ -13,8 +13,8 @@ char *type = 0;
 char *amplitude = 0;
 char *frequency = 0;
 const char *id = "e07dba31-e2b0-4351-b4d2-ebcf94ca590f";
-const char *ssid = "SanBartole";             // Enter SSID
-const char *password = "4LL10RB4CSB3L0NG0S"; // Enter Password
+const char *ssid = "-";             // Enter SSID
+const char *password = "-"; // Enter Password
 
 const char *websocketURL = "wss://zmrakffklsmaouajknzy.supabase.co/realtime/v1/websocket?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InptcmFrZmZrbHNtYW91YWprbnp5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDY1NjcwMDgsImV4cCI6MjAyMjE0MzAwOH0.1NQvhDko1YI-441l2mK2CiTtXdo3WGxbu6Rfg7FYzVM&vsn=1.0.0";
 const char *websocketUR = "wss://socketsbay.com/wss/v2/1/demo/";
